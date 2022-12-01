@@ -10,7 +10,11 @@
 2.使用ros opencv  
 [OpenCV](https://blog.csdn.net/weixin_41655430/article/details/115170667)  
 3.使用ros pcl  
-[PCL](https://blog.csdn.net/muyiyushan/article/details/114592222)
+[PCL](https://blog.csdn.net/muyiyushan/article/details/114592222)  
+## ROS 创建msg 
+[创建ros_msg](https://blog.csdn.net/zhou2677273778/article/details/126477921)  
+## ROS 创建及运行节点  
+[创建ros_node](https://blog.csdn.net/sinat_26057343/article/details/119967089)  
 # 三. ROS常见BUG
 ## ROS问题
 1.catkin_make python环境出错  
